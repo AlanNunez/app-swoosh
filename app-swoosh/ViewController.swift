@@ -19,5 +19,10 @@ class ViewController: UIViewController {
         
         bgImage.frame = view.frame
     }
+    
+    @IBAction func unwindFromSkillVC(unwindSegue: UIStoryboardSegue
+        ) {
+        
+    }
 }
 
